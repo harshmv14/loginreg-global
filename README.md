@@ -14,6 +14,6 @@ You will need to create a keys_dev.js in the server config folder with
 
 ```
 module.exports = {
-  mongoURI: 'YOUR_OWN_MONGO_URI',
+  MongoURI: 'YOUR_OWN_MONGO_URI',
 };
 ```
