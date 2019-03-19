@@ -11,7 +11,7 @@ https://login-register-hmv.herokuapp.com/
 npm install
 ```
 
-## Note
+## Note (In case, the app is not deployed)
 
 You will need to create a keys_dev.js in the server config folder with
 
